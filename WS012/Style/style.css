@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(246, 238, 238);
+}
+.centered{
+   margin-right: auto;
+   margin-left:auto;
+   text-align:center;
+}
